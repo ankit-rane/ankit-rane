@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit-rane
 - 👀 I’m interested in coding, digital art, reading
-- 🌱 I’m currently learning python and cloud computing
+- 🌱 I’m currently learning DSA, Machine Learning and Data Analytics
 - 📫 Reach me via my email: ankitrane0605@gmail.com
 
 <!---
